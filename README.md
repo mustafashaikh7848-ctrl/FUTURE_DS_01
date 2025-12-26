@@ -40,4 +40,5 @@ The goal is to transform raw sales data into actionable business insights throug
 
 ## 🚀 Author
 Created as part of the **Data Science & Data Analyst Internship at Future Interns**
-https://github.com/mustafashaikh7848-ctrl/FUTURE_DS_01/blob/main/Blinkit%20Deshboard%20Analytics%20.png
+
+Deshboard scrrenshort: https://github.com/mustafashaikh7848-ctrl/FUTURE_DS_01/blob/main/Blinkit%20Deshboard%20Analytics%20.png
